@@ -1,0 +1,63 @@
+about:
+  description: 🙌 OpenHands: AI-Driven Development
+  license: MIT
+  homepage: https://openhands.dev
+  head: 9bd0788
+  archived: false
+  latestVersion: v1.16.0
+  collectedAt: 2026-09-02T05:10:46Z
+timeline:
+  created: 2024-03-13
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-27
+popularity:
+  star: 85906
+  watcher: 487
+  fork: 11267
+  release: 135
+  contributor: 560
+  pullRequest: 3854
+  issue: 4683
+language:
+  TypeScript: 9197652
+  JavaScript: 447401
+  Python: 27733
+  Shell: 27509
+  CSS: 21524
+  HTML: 11619
+  Dockerfile: 8437
+  Go Template: 3195
+totalLine: 9745070
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 8
+    mergedPR: 144
+    openPR: 242
+    closedIssue: 122
+    openIssue: 197
+    commit: 151
+  last90d:
+    since: 2026-06-04
+    release: 33
+    mergedPR: 476
+    openPR: 277
+    closedIssue: 260
+    openIssue: 303
+    commit: 725
+  last180d:
+    since: 2026-03-06
+    release: 36
+    mergedPR: 1089
+    openPR: 277
+    closedIssue: 507
+    openIssue: 347
+    commit: 1911
+  last360d:
+    since: 2025-09-07
+    release: 58
+    mergedPR: 2261
+    openPR: 277
+    closedIssue: 1026
+    openIssue: 348
+    commit: 2956
