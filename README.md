@@ -38,22 +38,22 @@ Total: **306,569** lines of code across **2097** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 87,269 · **Forks**: 11,442 · **Open issues**: 4,748 · **Contributors**: 565
+- **Stars**: 87,277 · **Forks**: 11,444 · **Open issues**: 4,749 · **Contributors**: 565
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 7614 · **Open PRs**: 329 · **Closed issues**: 4367 · **Open issues**: 381 · **Commits**: 8165
+- **Releases**: 136 · **Merged PRs**: 7614 · **Open PRs**: 330 · **Closed issues**: 4367 · **Open issues**: 382 · **Commits**: 8165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 113 | 237 | 104 | 162 | 147 |
-| last60d | 2026-07-13 | 18 | 293 | 329 | 213 | 269 | 361 |
-| 90d | 2026-06-13 | 33 | 451 | 329 | 272 | 320 | 647 |
-| last180d | 2026-03-15 | 36 | 1064 | 329 | 520 | 377 | 1900 |
-| 360d | 2025-09-16 | 58 | 2231 | 329 | 1045 | 378 | 2956 |
-| last720d | 2024-09-21 | 100 | 5541 | 329 | 3010 | 381 | 6096 |
+| 30d | 2026-08-12 | 5 | 113 | 238 | 104 | 163 | 147 |
+| last60d | 2026-07-13 | 18 | 293 | 330 | 213 | 270 | 361 |
+| 90d | 2026-06-13 | 33 | 451 | 330 | 272 | 321 | 647 |
+| last180d | 2026-03-15 | 36 | 1064 | 330 | 520 | 378 | 1900 |
+| 360d | 2025-09-16 | 58 | 2231 | 330 | 1045 | 379 | 2956 |
+| last720d | 2024-09-21 | 100 | 5541 | 330 | 3010 | 382 | 6096 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:23:51Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T02:50:53Z._
