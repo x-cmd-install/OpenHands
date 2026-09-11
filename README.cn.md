@@ -12,6 +12,18 @@
 x install OpenHands
 ```
 
+## 代码洞察
+
+合计: **306,569** 行代码（覆盖前 5 种语言、共 **2097** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Tsx | 129,867 | 8,895 | 16,215 | 951 |
+| TypeScript | 100,617 | 15,840 | 14,240 | 951 |
+| Json | 63,860 | 0 | 6 | 11 |
+| JavaScript | 9,289 | 2,571 | 1,222 | 41 |
+| Svg | 698 | 1 | 2 | 143 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/OpenHands/OpenHands>
@@ -24,6 +36,25 @@ x install OpenHands
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 4 个
 
+## 流行度
+
+- **Star**: 87,269 · **Fork**: 11,442 · **开放 issue**: 4,748 · **贡献者**: 565
+
+## 累计统计
+
+- **发布数**: 136 · **已合并 PR**: 7614 · **开放 PR**: 329 · **已关闭 issue**: 4367 · **开放 issue**: 381 · **提交数**: 8165
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 5 | 113 | 237 | 104 | 162 | 147 |
+| last60d | 2026-07-13 | 18 | 293 | 329 | 213 | 269 | 361 |
+| 90d | 2026-06-13 | 33 | 451 | 329 | 272 | 320 | 647 |
+| last180d | 2026-03-15 | 36 | 1064 | 329 | 520 | 377 | 1900 |
+| 360d | 2025-09-16 | 58 | 2231 | 329 | 1045 | 378 | 2956 |
+| last720d | 2024-09-21 | 100 | 5541 | 329 | 3010 | 381 | 6096 |
+
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
@@ -32,34 +63,6 @@ x install OpenHands
 | [OpenHands-Agent-Canvas-1.17.0-arm64.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.17.0/OpenHands-Agent-Canvas-1.17.0-arm64.dmg) | 168.3 MiB | `other` |
 | [OpenHands-Agent-Canvas-Setup-1.17.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.17.0/OpenHands-Agent-Canvas-Setup-1.17.0.exe) | 133.8 MiB | `other` |
 | [OpenHands.Agent.Canvas-1.17.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.17.0/OpenHands.Agent.Canvas-1.17.0.AppImage) | 184.9 MiB | `other` |
-
-## 流行度
-
-- **Star**: 87,232 · **Fork**: 11,440 · **开放 issue**: 4,741 · **贡献者**: 565
-
-## 累计统计
-
-- **发布数**: 136 · **已合并 PR**: 7612 · **开放 PR**: 331 · **已关闭 issue**: 4365 · **开放 issue**: 376 · **提交数**: 8163
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 116 | 243 | 115 | 169 | 145 |
-| 90d | 2026-06-12 | 33 | 452 | 331 | 274 | 315 | 645 |
-| 360d | 2025-09-15 | 58 | 2238 | 331 | 1045 | 373 | 2954 |
-
-## 代码规模
-
-合计: **305,932** 行代码（覆盖前 5 种语言、共 **2092** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Tsx | 129,479 | 8,856 | 16,177 | 949 |
-| TypeScript | 100,385 | 15,754 | 14,209 | 948 |
-| Json | 63,843 | 0 | 6 | 11 |
-| JavaScript | 9,289 | 2,571 | 1,222 | 41 |
-| Svg | 698 | 1 | 2 | 143 |
 
 ## 改进这些数据
 
@@ -70,4 +73,4 @@ OpenHands 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:46Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:23:51Z._
