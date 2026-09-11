@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.17.0"
   latestRelease: "v1.17.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:23:09Z
+  collectedAt: 2026-09-11T02:50:00Z
 timeline:
   created: 2024-03-13
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 87269
+  star: 87277
   watcher: 493
-  fork: 11442
+  fork: 11444
   release: 136
   contributor: 565
-  pullRequest: 11542
-  issue: 4748
+  pullRequest: 11543
+  issue: 4749
 language:
   TypeScript: 9424633
   JavaScript: 447420
@@ -37,60 +37,60 @@ recent:
     since: 2026-08-12
     release: 5
     mergedPR: 113
-    openPR: 237
+    openPR: 238
     closedIssue: 104
-    openIssue: 162
+    openIssue: 163
     commit: 147
   last60d:
     since: 2026-07-13
     release: 18
     mergedPR: 293
-    openPR: 329
+    openPR: 330
     closedIssue: 213
-    openIssue: 269
+    openIssue: 270
     commit: 361
   last90d:
     since: 2026-06-13
     release: 33
     mergedPR: 451
-    openPR: 329
+    openPR: 330
     closedIssue: 272
-    openIssue: 320
+    openIssue: 321
     commit: 647
   last180d:
     since: 2026-03-15
     release: 36
     mergedPR: 1064
-    openPR: 329
+    openPR: 330
     closedIssue: 520
-    openIssue: 377
+    openIssue: 378
     commit: 1900
   last360d:
     since: 2025-09-16
     release: 58
     mergedPR: 2231
-    openPR: 329
+    openPR: 330
     closedIssue: 1045
-    openIssue: 378
+    openIssue: 379
     commit: 2956
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 5541
-    openPR: 329
+    openPR: 330
     closedIssue: 3010
-    openIssue: 381
+    openIssue: 382
     commit: 6096
 total:
   release: 136
   mergedPR: 7614
-  openPR: 329
+  openPR: 330
   closedIssue: 4367
-  openIssue: 381
+  openIssue: 382
   commit: 8165
 ---
 path: /home/runner/.x-repo/github.com/OpenHands/OpenHands
-collectedAt: 2026-09-11T00:23:44Z
+collectedAt: 2026-09-11T02:50:47Z
 loc:
   Tsx:
     code: 129867
