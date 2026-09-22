@@ -14,14 +14,14 @@ x install OpenHands
 
 ## Code insight
 
-Total: **342,265** lines of code across **2177** files in the top 5 languages.
+Total: **342,642** lines of code across **2177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Tsx | 147,979 | 8,965 | 18,550 | 995 |
-| TypeScript | 117,854 | 16,010 | 16,218 | 987 |
-| Json | 64,132 | 0 | 6 | 11 |
-| JavaScript | 9,361 | 2,599 | 1,228 | 41 |
+| Tsx | 147,872 | 8,971 | 18,554 | 995 |
+| TypeScript | 117,873 | 16,010 | 16,222 | 987 |
+| Json | 64,569 | 0 | 6 | 11 |
+| JavaScript | 9,379 | 2,604 | 1,230 | 41 |
 | Svg | 698 | 1 | 2 | 143 |
 
 ## Source
@@ -32,37 +32,37 @@ Total: **342,265** lines of code across **2177** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.20.0` (2026-09-17)
-- **Last commit**: 2026-09-21
+- **Latest**: `v1.21.0` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 88,660 · **Forks**: 11,664 · **Open issues**: 4,836 · **Contributors**: 569
+- **Stars**: 88,758 · **Forks**: 11,676 · **Open issues**: 4,842 · **Contributors**: 569
 
 ## Totals (cumulative)
 
-- **Releases**: 139 · **Merged PRs**: 7724 · **Open PRs**: 426 · **Closed issues**: 4393 · **Open issues**: 443 · **Commits**: 8274
+- **Releases**: 140 · **Merged PRs**: 7732 · **Open PRs**: 432 · **Closed issues**: 4399 · **Open issues**: 443 · **Commits**: 8281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 5 | 176 | 260 | 92 | 175 | 165 |
-| last60d | 2026-07-23 | 17 | 377 | 426 | 215 | 317 | 358 |
-| 90d | 2026-06-23 | 36 | 503 | 426 | 275 | 371 | 610 |
-| last180d | 2026-03-25 | 39 | 1109 | 426 | 501 | 439 | 1887 |
-| 360d | 2025-09-26 | 59 | 2271 | 426 | 1029 | 439 | 2986 |
-| last720d | 2024-10-01 | 100 | 5533 | 426 | 3005 | 443 | 6102 |
+| 30d | 2026-08-23 | 6 | 179 | 256 | 89 | 169 | 171 |
+| last60d | 2026-07-24 | 18 | 383 | 432 | 218 | 315 | 364 |
+| 90d | 2026-06-24 | 37 | 504 | 432 | 279 | 372 | 616 |
+| last180d | 2026-03-26 | 40 | 1103 | 432 | 505 | 439 | 1893 |
+| 360d | 2025-09-27 | 60 | 2279 | 432 | 1032 | 439 | 2992 |
+| last720d | 2024-10-02 | 100 | 5523 | 432 | 3007 | 443 | 6094 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-canvas_1.20.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.20.0/agent-canvas_1.20.0_amd64.deb) | 141.0 MiB | `runtime/deb/amd64` |
-| [OpenHands-Agent-Canvas-1.20.0-arm64.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.20.0/OpenHands-Agent-Canvas-1.20.0-arm64.dmg) | 168.4 MiB | `other` |
-| [OpenHands-Agent-Canvas-Setup-1.20.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.20.0/OpenHands-Agent-Canvas-Setup-1.20.0.exe) | 133.9 MiB | `other` |
-| [OpenHands.Agent.Canvas-1.20.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.20.0/OpenHands.Agent.Canvas-1.20.0.AppImage) | 185.0 MiB | `other` |
+| [agent-canvas_1.21.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/agent-canvas_1.21.0_amd64.deb) | 141.0 MiB | `runtime/deb/amd64` |
+| [OpenHands-Agent-Canvas-1.21.0-arm64.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands-Agent-Canvas-1.21.0-arm64.dmg) | 168.6 MiB | `other` |
+| [OpenHands-Agent-Canvas-Setup-1.21.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands-Agent-Canvas-Setup-1.21.0.exe) | 134.1 MiB | `other` |
+| [OpenHands.Agent.Canvas-1.21.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands.Agent.Canvas-1.21.0.AppImage) | 185.3 MiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T03:09:26Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T03:08:17Z._
