@@ -4,7 +4,7 @@
 
 🙌 OpenHands: AI-Driven Development
 
-[![x-cmd/install — OpenHands Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenHands.svg)](https://x-cmd.com/install/OpenHands)
+[![x-cmd/install — OpenHands Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OpenHands.svg)](https://x-cmd.com/install/OpenHands)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install OpenHands
 
 ## Code insight
 
-Total: **342,642** lines of code across **2177** files in the top 5 languages.
+Total: **343,696** lines of code across **2180** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Tsx | 147,872 | 8,971 | 18,554 | 995 |
-| TypeScript | 117,873 | 16,010 | 16,222 | 987 |
-| Json | 64,569 | 0 | 6 | 11 |
-| JavaScript | 9,379 | 2,604 | 1,230 | 41 |
+| Tsx | 148,400 | 9,022 | 18,630 | 996 |
+| TypeScript | 118,532 | 16,175 | 16,301 | 989 |
+| Json | 64,427 | 0 | 6 | 11 |
+| JavaScript | 9,371 | 2,601 | 1,230 | 41 |
 | Svg | 698 | 1 | 2 | 143 |
 
 ## Source
@@ -32,37 +32,37 @@ Total: **342,642** lines of code across **2177** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.21.0` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Latest**: `v1.22.0` (2026-09-22)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 88,758 · **Forks**: 11,676 · **Open issues**: 4,842 · **Contributors**: 569
+- **Stars**: 88,894 · **Forks**: 11,697 · **Open issues**: 4,856 · **Contributors**: 569
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 7732 · **Open PRs**: 432 · **Closed issues**: 4399 · **Open issues**: 443 · **Commits**: 8281
+- **Releases**: 141 · **Merged PRs**: 7746 · **Open PRs**: 429 · **Closed issues**: 4404 · **Open issues**: 452 · **Commits**: 8295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 179 | 256 | 89 | 169 | 171 |
-| last60d | 2026-07-24 | 18 | 383 | 432 | 218 | 315 | 364 |
-| 90d | 2026-06-24 | 37 | 504 | 432 | 279 | 372 | 616 |
-| last180d | 2026-03-26 | 40 | 1103 | 432 | 505 | 439 | 1893 |
-| 360d | 2025-09-27 | 60 | 2279 | 432 | 1032 | 439 | 2992 |
-| last720d | 2024-10-02 | 100 | 5523 | 432 | 3007 | 443 | 6094 |
+| 30d | 2026-08-24 | 7 | 187 | 248 | 87 | 169 | 185 |
+| last60d | 2026-07-25 | 19 | 396 | 429 | 223 | 324 | 378 |
+| 90d | 2026-06-25 | 37 | 504 | 429 | 282 | 381 | 630 |
+| last180d | 2026-03-27 | 41 | 1104 | 429 | 507 | 448 | 1907 |
+| 360d | 2025-09-28 | 61 | 2290 | 429 | 1035 | 448 | 3006 |
+| last720d | 2024-10-03 | 100 | 5525 | 429 | 3007 | 452 | 6090 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-canvas_1.21.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/agent-canvas_1.21.0_amd64.deb) | 141.0 MiB | `runtime/deb/amd64` |
-| [OpenHands-Agent-Canvas-1.21.0-arm64.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands-Agent-Canvas-1.21.0-arm64.dmg) | 168.6 MiB | `other` |
-| [OpenHands-Agent-Canvas-Setup-1.21.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands-Agent-Canvas-Setup-1.21.0.exe) | 134.1 MiB | `other` |
-| [OpenHands.Agent.Canvas-1.21.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.21.0/OpenHands.Agent.Canvas-1.21.0.AppImage) | 185.3 MiB | `other` |
+| [agent-canvas_1.22.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.22.0/agent-canvas_1.22.0_amd64.deb) | 141.1 MiB | `runtime/deb/amd64` |
+| [OpenHands-Agent-Canvas-1.22.0-arm64.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.22.0/OpenHands-Agent-Canvas-1.22.0-arm64.dmg) | 168.6 MiB | `other` |
+| [OpenHands-Agent-Canvas-Setup-1.22.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.22.0/OpenHands-Agent-Canvas-Setup-1.22.0.exe) | 134.1 MiB | `other` |
+| [OpenHands.Agent.Canvas-1.22.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.22.0/OpenHands.Agent.Canvas-1.22.0.AppImage) | 185.3 MiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:08:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:09:18Z._
