@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 148064408,
       "digest": "sha256:2e5ac032ff585db0933eee27d072cc6e0b7fd422ef26d745f236b15fa28d29b9",
-      "download_count": 17,
+      "download_count": 34,
       "created_at": "2026-09-23T17:27:04Z",
       "updated_at": "2026-09-23T17:27:11Z",
       "browser_download_url": "https://github.com/OpenHands/OpenHands/releases/download/v1.23.0/agent-canvas_1.23.0_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 333084727,
       "digest": "sha256:af86f5ea424ccea29ea10b9f5d7fa88c8febc4838ac84d3de99523ae8a7858b8",
-      "download_count": 24,
+      "download_count": 81,
       "created_at": "2026-09-23T17:32:50Z",
       "updated_at": "2026-09-23T17:33:03Z",
       "browser_download_url": "https://github.com/OpenHands/OpenHands/releases/download/v1.23.0/OpenHands-Agent-Canvas-1.23.0-universal.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 140680597,
       "digest": "sha256:3d2ba525fa80b8889cc71c983118d5e2e982df2a25861b94ba5ba7e2d9d8674d",
-      "download_count": 46,
+      "download_count": 186,
       "created_at": "2026-09-23T17:27:41Z",
       "updated_at": "2026-09-23T17:27:45Z",
       "browser_download_url": "https://github.com/OpenHands/OpenHands/releases/download/v1.23.0/OpenHands-Agent-Canvas-Setup-1.23.0.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 194395486,
       "digest": "sha256:9ded5b194f0ad28ad761a95f25ef5c0d259eb19b5c184ada8e2f7382eeff87d0",
-      "download_count": 7,
+      "download_count": 21,
       "created_at": "2026-09-23T17:27:04Z",
       "updated_at": "2026-09-23T17:27:13Z",
       "browser_download_url": "https://github.com/OpenHands/OpenHands/releases/download/v1.23.0/OpenHands.Agent.Canvas-1.23.0.AppImage"
