@@ -14,14 +14,14 @@ x install OpenHands
 
 ## 代码洞察
 
-合计: **359,705** 行代码（覆盖前 5 种语言、共 **2280** 个文件）。
+合计: **366,594** 行代码（覆盖前 5 种语言、共 **2322** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Tsx | 157,235 | 9,657 | 19,595 | 1033 |
-| TypeScript | 123,748 | 16,789 | 16,838 | 1047 |
-| Json | 66,079 | 0 | 4 | 13 |
-| JavaScript | 9,664 | 2,750 | 1,249 | 44 |
+| Tsx | 161,094 | 9,881 | 20,019 | 1051 |
+| TypeScript | 126,069 | 16,930 | 17,068 | 1071 |
+| Json | 66,729 | 0 | 4 | 13 |
+| JavaScript | 9,719 | 2,748 | 1,250 | 44 |
 | Svg | 698 | 1 | 2 | 143 |
 
 ## 源代码
@@ -32,37 +32,37 @@ x install OpenHands
 
 ## 发布
 
-- **最新版本**: `v1.24.0` (2026-09-25)
-- **最近提交**: 2026-10-04
+- **最新版本**: `v1.25.0` (2026-10-06)
+- **最近提交**: 2026-10-06
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 90,005 · **Fork**: 11,900 · **开放 issue**: 5,009 · **贡献者**: 585
+- **Star**: 90,071 · **Fork**: 11,910 · **开放 issue**: 5,023 · **贡献者**: 589
 
 ## 累计统计
 
-- **发布数**: 143 · **已合并 PR**: 7836 · **开放 PR**: 419 · **已关闭 issue**: 4483 · **开放 issue**: 526 · **提交数**: 8384
+- **发布数**: 144 · **已合并 PR**: 7890 · **开放 PR**: 427 · **已关闭 issue**: 4538 · **开放 issue**: 485 · **提交数**: 8438
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 8 | 204 | 220 | 92 | 207 | 216 |
-| last60d | 2026-08-06 | 14 | 372 | 384 | 246 | 354 | 368 |
-| 90d | 2026-07-07 | 36 | 547 | 419 | 335 | 441 | 588 |
-| last180d | 2026-04-08 | 42 | 1116 | 419 | 559 | 522 | 1895 |
-| 360d | 2025-10-10 | 62 | 2307 | 419 | 1080 | 522 | 3029 |
-| last720d | 2024-10-15 | 100 | 5483 | 419 | 3044 | 526 | 6054 |
+| 30d | 2026-09-06 | 9 | 255 | 233 | 137 | 174 | 0 |
+| last60d | 2026-08-07 | 15 | 416 | 383 | 290 | 312 | 0 |
+| 90d | 2026-07-08 | 34 | 592 | 427 | 389 | 399 | 0 |
+| last180d | 2026-04-09 | 43 | 1162 | 427 | 613 | 481 | 0 |
+| 360d | 2025-10-11 | 61 | 2360 | 427 | 1135 | 481 | 0 |
+| last720d | 2024-10-16 | 100 | 5523 | 427 | 3094 | 485 | 6092 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-canvas_1.24.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.24.0/agent-canvas_1.24.0_amd64.deb) | 141.2 MiB | `runtime/deb/amd64` |
-| [OpenHands-Agent-Canvas-1.24.0-universal.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.24.0/OpenHands-Agent-Canvas-1.24.0-universal.dmg) | 317.7 MiB | `other` |
-| [OpenHands-Agent-Canvas-Setup-1.24.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.24.0/OpenHands-Agent-Canvas-Setup-1.24.0.exe) | 134.2 MiB | `other` |
-| [OpenHands.Agent.Canvas-1.24.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.24.0/OpenHands.Agent.Canvas-1.24.0.AppImage) | 185.5 MiB | `other` |
+| [agent-canvas_1.25.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.25.0/agent-canvas_1.25.0_amd64.deb) | 145.3 MiB | `runtime/deb/amd64` |
+| [OpenHands-Agent-Canvas-1.25.0-universal.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.25.0/OpenHands-Agent-Canvas-1.25.0-universal.dmg) | 328.0 MiB | `other` |
+| [OpenHands-Agent-Canvas-Setup-1.25.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.25.0/OpenHands-Agent-Canvas-Setup-1.25.0.exe) | 134.8 MiB | `other` |
+| [OpenHands.Agent.Canvas-1.25.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.25.0/OpenHands.Agent.Canvas-1.25.0.AppImage) | 190.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ OpenHands 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T03:53:21Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T04:41:27Z._
