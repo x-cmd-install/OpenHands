@@ -14,15 +14,15 @@ x install OpenHands
 
 ## Code insight
 
-Total: **409,882** lines of code across **2307** files in the top 5 languages.
+Total: **414,223** lines of code across **2322** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Tsx | 181,650 | 10,665 | 21,935 | 1086 |
-| TypeScript | 138,901 | 18,059 | 18,437 | 1151 |
-| Json | 74,511 | 0 | 4 | 13 |
-| JavaScript | 11,530 | 3,647 | 1,463 | 54 |
-| Css | 855 | 70 | 125 | 3 |
+| Tsx | 184,444 | 10,750 | 22,164 | 1088 |
+| TypeScript | 140,068 | 18,024 | 18,553 | 1163 |
+| Json | 74,840 | 0 | 4 | 13 |
+| JavaScript | 11,553 | 3,678 | 1,465 | 54 |
+| Css | 867 | 73 | 125 | 4 |
 
 ## Source
 
@@ -32,37 +32,37 @@ Total: **409,882** lines of code across **2307** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.28.1` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Latest**: `v1.29.0` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 91,314 · **Forks**: 12,122 · **Open issues**: 5,263 · **Contributors**: 600
+- **Stars**: 91,420 · **Forks**: 12,130 · **Open issues**: 5,274 · **Contributors**: 600
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 8108 · **Open PRs**: 545 · **Closed issues**: 4728 · **Open issues**: 535 · **Commits**: 8651
+- **Releases**: 150 · **Merged PRs**: 8131 · **Open PRs**: 545 · **Closed issues**: 4747 · **Open issues**: 527 · **Commits**: 8674
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 10 | 319 | 288 | 248 | 181 | 331 |
-| last60d | 2026-08-21 | 16 | 546 | 435 | 393 | 309 | 547 |
-| 90d | 2026-07-22 | 27 | 764 | 545 | 538 | 425 | 743 |
-| last180d | 2026-04-23 | 48 | 1244 | 545 | 767 | 530 | 1987 |
-| 360d | 2025-10-25 | 64 | 2492 | 545 | 1293 | 531 | 3199 |
-| last720d | 2024-10-30 | 100 | 5639 | 545 | 3239 | 535 | 6204 |
+| 30d | 2026-09-21 | 11 | 333 | 285 | 261 | 175 | 354 |
+| last60d | 2026-08-22 | 16 | 566 | 434 | 405 | 299 | 570 |
+| 90d | 2026-07-23 | 28 | 784 | 545 | 554 | 415 | 766 |
+| last180d | 2026-04-24 | 49 | 1258 | 545 | 785 | 522 | 2010 |
+| 360d | 2025-10-26 | 65 | 2510 | 545 | 1310 | 523 | 3222 |
+| last720d | 2024-10-31 | 100 | 5653 | 545 | 3254 | 527 | 6209 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-canvas_1.28.1_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.28.1/agent-canvas_1.28.1_amd64.deb) | 143.7 MiB | `runtime/deb/amd64` |
-| [OpenHands-Agent-Canvas-1.28.1-universal.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.28.1/OpenHands-Agent-Canvas-1.28.1-universal.dmg) | 322.0 MiB | `other` |
-| [OpenHands-Agent-Canvas-Setup-1.28.1.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.28.1/OpenHands-Agent-Canvas-Setup-1.28.1.exe) | 133.7 MiB | `other` |
-| [OpenHands.Agent.Canvas-1.28.1.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.28.1/OpenHands.Agent.Canvas-1.28.1.AppImage) | 187.7 MiB | `other` |
+| [agent-canvas_1.29.0_amd64.deb](https://github.com/OpenHands/OpenHands/releases/download/v1.29.0/agent-canvas_1.29.0_amd64.deb) | 144.6 MiB | `runtime/deb/amd64` |
+| [OpenHands-Agent-Canvas-1.29.0-universal.dmg](https://github.com/OpenHands/OpenHands/releases/download/v1.29.0/OpenHands-Agent-Canvas-1.29.0-universal.dmg) | 323.4 MiB | `other` |
+| [OpenHands-Agent-Canvas-Setup-1.29.0.exe](https://github.com/OpenHands/OpenHands/releases/download/v1.29.0/OpenHands-Agent-Canvas-Setup-1.29.0.exe) | 135.4 MiB | `other` |
+| [OpenHands.Agent.Canvas-1.29.0.AppImage](https://github.com/OpenHands/OpenHands/releases/download/v1.29.0/OpenHands.Agent.Canvas-1.29.0.AppImage) | 189.3 MiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T03:15:17Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T03:10:19Z._
