@@ -14,14 +14,14 @@ x install OpenHands
 
 ## Code insight
 
-Total: **427,914** lines of code across **2396** files in the top 5 languages.
+Total: **428,913** lines of code across **2397** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Tsx | 199,688 | 11,221 | 23,105 | 1124 |
-| TypeScript | 148,808 | 18,898 | 19,342 | 1200 |
-| Json | 63,526 | 0 | 4 | 13 |
-| JavaScript | 12,357 | 3,994 | 1,525 | 55 |
+| Tsx | 199,922 | 11,279 | 23,134 | 1124 |
+| TypeScript | 149,533 | 19,025 | 19,416 | 1201 |
+| Json | 63,564 | 0 | 4 | 13 |
+| JavaScript | 12,359 | 3,994 | 1,525 | 55 |
 | Css | 1,145 | 90 | 198 | 4 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **427,914** lines of code across **2396** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.35.0` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 92,602 · **Forks**: 12,351 · **Open issues**: 5,508 · **Contributors**: 608
+- **Stars**: 92,680 · **Forks**: 12,363 · **Open issues**: 5,525 · **Contributors**: 608
 
 ## Totals (cumulative)
 
-- **Releases**: 157 · **Merged PRs**: 8346 · **Open PRs**: 595 · **Closed issues**: 4910 · **Open issues**: 598 · **Commits**: 8886
+- **Releases**: 157 · **Merged PRs**: 8359 · **Open PRs**: 572 · **Closed issues**: 4921 · **Open issues**: 604 · **Commits**: 8899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 14 | 413 | 282 | 286 | 202 | 408 |
-| last60d | 2026-09-05 | 22 | 705 | 443 | 474 | 324 | 737 |
-| 90d | 2026-08-06 | 28 | 881 | 563 | 658 | 441 | 891 |
-| last180d | 2026-05-08 | 55 | 1360 | 595 | 908 | 592 | 1949 |
-| 360d | 2025-11-09 | 66 | 2628 | 595 | 1444 | 594 | 3341 |
-| last720d | 2024-11-14 | 100 | 5727 | 595 | 3312 | 598 | 6290 |
+| 30d | 2026-10-06 | 14 | 414 | 254 | 274 | 203 | 421 |
+| last60d | 2026-09-06 | 22 | 716 | 418 | 483 | 330 | 750 |
+| 90d | 2026-08-07 | 28 | 885 | 530 | 659 | 445 | 904 |
+| last180d | 2026-05-09 | 55 | 1364 | 572 | 919 | 597 | 1962 |
+| 360d | 2025-11-10 | 66 | 2634 | 572 | 1454 | 600 | 3354 |
+| last720d | 2024-11-15 | 100 | 5724 | 572 | 3290 | 604 | 6288 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:42:04Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:57:13Z._
