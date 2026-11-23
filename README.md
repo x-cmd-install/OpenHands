@@ -38,22 +38,22 @@ Total: **460,987** lines of code across **2511** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 93,981 · **Forks**: 12,578 · **Open issues**: 5,693 · **Contributors**: 622
+- **Stars**: 94,107 · **Forks**: 12,598 · **Open issues**: 5,714 · **Contributors**: 622
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 8647 · **Open PRs**: 592 · **Closed issues**: 5050 · **Open issues**: 643 · **Commits**: 9186
+- **Releases**: 166 · **Merged PRs**: 8651 · **Open PRs**: 617 · **Closed issues**: 5051 · **Open issues**: 663 · **Commits**: 9190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 13 | 409 | 217 | 196 | 165 | 386 |
-| last60d | 2026-09-23 | 25 | 820 | 376 | 519 | 318 | 827 |
-| 90d | 2026-08-24 | 32 | 1064 | 489 | 674 | 423 | 1064 |
-| last180d | 2026-05-26 | 64 | 1573 | 592 | 1015 | 627 | 1885 |
-| 360d | 2025-11-27 | 73 | 2842 | 592 | 1558 | 640 | 3555 |
-| last720d | 2024-12-02 | 100 | 5889 | 592 | 3318 | 643 | 6457 |
+| 30d | 2026-10-24 | 11 | 402 | 238 | 187 | 180 | 390 |
+| last60d | 2026-09-24 | 24 | 812 | 400 | 512 | 335 | 831 |
+| 90d | 2026-08-25 | 32 | 1061 | 511 | 667 | 440 | 1068 |
+| last180d | 2026-05-27 | 64 | 1574 | 617 | 1013 | 645 | 1889 |
+| 360d | 2025-11-28 | 73 | 2845 | 617 | 1557 | 660 | 3559 |
+| last720d | 2024-12-03 | 100 | 5884 | 617 | 3309 | 663 | 6450 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenHands lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T04:54:53Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T05:34:55Z._
