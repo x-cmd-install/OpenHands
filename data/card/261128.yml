@@ -1,0 +1,177 @@
+about:
+  description: "🙌 OpenHands: AI-Driven Development"
+  license: MIT
+  homepage: https://openhands.dev
+  head: 4adc3d6
+  archived: false
+  latestVersion: "v1.46.0"
+  latestRelease: "v1.46.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T06:07:37Z
+timeline:
+  created: 2024-03-13
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-25
+  lastRelease: 2026-11-25
+  lastPrerelease: 
+popularity:
+  star: 94474
+  watcher: 501
+  fork: 12672
+  release: 169
+  contributor: 624
+  pullRequest: 13356
+  issue: 5753
+language:
+  TypeScript: 15863184
+  JavaScript: 1189723
+  Python: 63330
+  Shell: 50478
+  CSS: 48827
+  HTML: 17736
+  Dockerfile: 11158
+  Go Template: 3195
+totalBytes: 17247631
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 13
+    mergedPR: 412
+    openPR: 186
+    closedIssue: 176
+    openIssue: 160
+    commit: 467
+  last60d:
+    since: 2026-09-29
+    release: 26
+    mergedPR: 865
+    openPR: 338
+    closedIssue: 523
+    openIssue: 322
+    commit: 908
+  last90d:
+    since: 2026-08-30
+    release: 34
+    mergedPR: 1109
+    openPR: 465
+    closedIssue: 672
+    openIssue: 431
+    commit: 1145
+  last180d:
+    since: 2026-06-01
+    release: 67
+    mergedPR: 1642
+    openPR: 586
+    closedIssue: 1031
+    openIssue: 638
+    commit: 1966
+  last360d:
+    since: 2025-12-03
+    release: 76
+    mergedPR: 2891
+    openPR: 586
+    closedIssue: 1575
+    openIssue: 665
+    commit: 3636
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 5923
+    openPR: 586
+    closedIssue: 3322
+    openIssue: 668
+    commit: 6483
+total:
+  release: 169
+  mergedPR: 8727
+  openPR: 586
+  closedIssue: 5085
+  openIssue: 668
+  commit: 9267
+---
+path: /home/runner/.x-repo/github.com/OpenHands/OpenHands
+collectedAt: 2026-11-28T06:08:15Z
+loc:
+  Tsx:
+    code: 230215
+    comments: 13671
+    blanks: 25990
+    files: 1224
+  TypeScript:
+    code: 164075
+    comments: 21157
+    blanks: 20929
+    files: 1303
+  Json:
+    code: 69460
+    comments: 0
+    blanks: 4
+    files: 14
+  JavaScript:
+    code: 12729
+    comments: 4109
+    blanks: 1546
+    files: 57
+  Css:
+    code: 1384
+    comments: 122
+    blanks: 232
+    files: 5
+  Python:
+    code: 752
+    comments: 43
+    blanks: 114
+    files: 5
+  Sh:
+    code: 558
+    comments: 361
+    blanks: 64
+    files: 3
+  Svg:
+    code: 516
+    comments: 1
+    blanks: 0
+    files: 110
+  Yaml:
+    code: 472
+    comments: 177
+    blanks: 22
+    files: 8
+  Dockerfile:
+    code: 123
+    comments: 64
+    blanks: 27
+    files: 1
+  Pan:
+    code: 91
+    comments: 0
+    blanks: 11
+    files: 1
+  Html:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 1
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1992
+    blanks: 706
+    files: 23
+  Text:
+    code: 0
+    comments: 127
+    blanks: 24
+    files: 3
+total:
+  code: 481002
+  comments: 41904
+  blanks: 49735
+  files: 2759
+---
+
+---
